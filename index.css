@@ -6,3 +6,21 @@
 .header:hover {
     transform:scale(1.01);
 }
+
+.div1 {
+    font-size: 36px;
+    color: lavender;
+    background: #1d6507;
+    border-radius: 10px;
+    width: fit-content;
+    display: block;
+}
+.div2 {
+    display: inline;
+    font-size: 24px;
+    background: #fffeea;
+}
+body {
+    background: linear-gradient(90deg, #f2e0ff, #e4ddff) no-repeat;
+    height: 100vh;
+}
